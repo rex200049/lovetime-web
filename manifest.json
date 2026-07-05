@@ -1,11 +1,11 @@
 {
-    "name": "恋爱时",
-    "short_name": "恋爱时",
+    "name": "love_moment",
+    "short_name": "love_moment",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#1A1525",
-    "theme_color": "#1A1525",
-    "description": "一个只属于两个人的小世界",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
